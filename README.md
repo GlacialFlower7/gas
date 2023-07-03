@@ -8,5 +8,5 @@ Knowledge is power. Optimize your transaction timing. Identify Sybil attacks.
 
 ## Scripts
 
-`*.py` scripts have to be run locally to generate the data. 
-`*.ipynb` can be run locally or within any web interface, e.g. Google Colab
+* `*.py` scripts have to be run locally to generate the data. 
+* `*.ipynb` can be run locally or within any web interface, e.g. Google Colab. These plot the charts.
